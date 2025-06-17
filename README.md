@@ -1,4 +1,10 @@
-## Hi there 👋
+
+  <https://slgyouxi.github.io>
+
+  <https://www.ntrku.com>
+
+
+  RPG/ACT/SLG/ADV游戏盛宴，资源多多乐不停
 
 <!--
 **slgyouxi/slgyouxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
